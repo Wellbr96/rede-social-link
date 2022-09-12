@@ -24,7 +24,7 @@ html {
 }
 
 body {
-  background-image: url(https://wallpaperaccess.com/full/1567674.jpg);
+  background-image: url(https://wallpaperaccess.com/full/2825826.gif);
   font-family: 'Gloria Hallelujah', cursive;
 }
  img {
@@ -71,6 +71,8 @@ body {
    font-size: 12px;
    opacity: 0.6px;
    color: var(--secondary-color);
+   background-color: black;
+   border-radius: 30%;
 
  }
 
